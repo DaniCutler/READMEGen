@@ -16,55 +16,55 @@ const questions = [
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"username",
+        message:"What is your GitHub user name?",
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"email",
+        message:"What is your email?",
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"url",
+        message:"What is the URL to your project?",
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"project name",
+        message:"What is the name of  your project?",
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"description",
+        message:"How would you describe your project?",
     },
 
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"install",
+        message:"What command should be ran to install dependencies?",
     },
 
 {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"usage",
+        message:"How will your app be used?",
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"contributing",
+        message:"What should a user know about contributing, can they contribute?",
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"license",
+        message:["APACHE 2.0", "GPL 3.0", "MIT","BSD 3", "NONE"],
     },
     {
         type:"input",
-        name:"name",
-        message:"What is your full name?",
+        name:"tests",
+        message:"What command should be run for tests?",
     }
 ];
 
