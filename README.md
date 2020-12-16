@@ -46,6 +46,7 @@ THEN I am taken to the corresponding section of the README
 ```
 Link to video of working code:https://drive.google.com/file/d/1eBmMhCU3ErW8Nz1NO28VUgkh4CBcUgN5/view
 
+SAMPLE README FILE GENERATED USING APPLICATION:
 ![READMEGen](https://user-images.githubusercontent.com/72281065/102290174-ae7ce200-3efd-11eb-9585-85243df62a0e.JPG)
 
 
