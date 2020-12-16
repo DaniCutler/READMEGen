@@ -56,7 +56,8 @@ Link to video of working code:https://drive.google.com/file/d/1eBmMhCU3ErW8Nz1NO
 
 
 Questions:
-If you have any questions about the application you can contact Danielle Cutler directly at cutlerd02@gmail.com
+If you have any questions about the application you can contact 
+Danielle Cutler directly at cutlerd02@gmail.com
 Copyright:
 Danielle Cutler (DaniCutler)
 
