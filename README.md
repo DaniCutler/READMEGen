@@ -44,7 +44,9 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+Link to video of working code:https://drive.google.com/file/d/1eBmMhCU3ErW8Nz1NO28VUgkh4CBcUgN5/view
 
+![READMEGen](https://user-images.githubusercontent.com/72281065/102290174-ae7ce200-3efd-11eb-9585-85243df62a0e.JPG)
 
 
 
@@ -54,7 +56,7 @@ THEN I am taken to the corresponding section of the README
 
 
 Questions
-If you have any questions about the application you can open a ticket or contact Danielle Cutler directly at cutlerd02@gmail.com
+If you have any questions about the application you can contact Danielle Cutler directly at cutlerd02@gmail.com
 Copyright:
 Danielle Cutler (DaniCutler)
 
